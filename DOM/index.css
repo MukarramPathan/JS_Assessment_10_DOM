@@ -1,0 +1,21 @@
+.text
+{
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    border: 2px solid red;
+    
+}
+
+.main
+{
+    display: flex;
+    flex-flow: row wrap;
+}
+.child
+{
+    border: 5px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
